@@ -13,7 +13,9 @@ WEBZINE Director<br>
 
 
  <h3> ⚙️ Available:  </h3>
- ![java](https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white)
+ 
+ ![캡처](https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white)
+ ![java]
 
  <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/> 
  
