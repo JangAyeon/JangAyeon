@@ -25,4 +25,4 @@ WEBZINE Director<br>
  
  
  
- [![JangAyeon's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/JangAyeon/github-readme-stats)
+ [![JangAyeon's github stats](https://github-readme-stats.vercel.app/api?username=JangAyeon)](https://github.com/JangAyeon/github-readme-stats)
