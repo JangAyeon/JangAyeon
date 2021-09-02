@@ -10,6 +10,8 @@ Front-end Developer<br>
 Machine Learning / Deep Learning<br>
 WEBZINE Director<br>
 
+
+
  <h3> ⚙️ Available:  </h3>
  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/> 
 
@@ -20,3 +22,7 @@ WEBZINE Director<br>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=Html5&logoColor=white"/> 
  <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=Css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/Javascript-F7DF12?style=round-square&logo=Javascript&logoColor=white"/> 
+ 
+ 
+ 
+ [![JangAyeon's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/JangAyeon/github-readme-stats)
