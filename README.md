@@ -14,17 +14,11 @@ WEBZINE Director<br>
 
  <h3> ⚙️ Available:  </h3>
  
- ![캡처](https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white)
- ![java]
+ ![java](https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white)  ![c](https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white) ![c++](https://img.shields.io/badge/C++-00599C?style=round-square&logo=C%2B%2B&logoColor=white)  ![python](https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white) 
+ ![HTML](https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=Html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=Css3&logoColor=white)  ![javascript](https://img.shields.io/badge/Javascript-F7DF12?style=round-square&logo=Javascript&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=round-square&logo=react&logoColor=white)
 
- <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/> 
+
  
- <img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=C%2B%2B&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white"/>  
- <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=Html5&logoColor=white"/> 
- <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=Css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/Javascript-F7DF12?style=round-square&logo=Javascript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=round-square&logo=react&logoColor=white"/>
  
  
  [![JangAyeon's github stats](https://github-readme-stats.vercel.app/api?username=JangAyeon)](https://github.com/JangAyeon/github-readme-stats)
