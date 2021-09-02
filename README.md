@@ -22,8 +22,7 @@ WEBZINE Director<br>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=Html5&logoColor=white"/> 
  <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=Css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/Javascript-F7DF12?style=round-square&logo=Javascript&logoColor=white"/> 
-  <img src=" https://img.shields.io/badge/-ReactJS-F7DF12?style=round-square&logo=Javascript&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=round-square&logo=react&logoColor=white"/>
  
  
  [![JangAyeon's github stats](https://github-readme-stats.vercel.app/api?username=JangAyeon)](https://github.com/JangAyeon/github-readme-stats)
