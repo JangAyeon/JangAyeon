@@ -8,7 +8,7 @@
 <h3>⭐ Interests</h3>
 Front-end Developer<br>
 Machine Learning / Deep Learning<br>
-WEBZINE Director<br>
+Product Manager<br>
 
 
 
