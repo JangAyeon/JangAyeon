@@ -25,7 +25,6 @@ Product Manager<br>
  ![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
  ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
  
  [![JangAyeon's github stats](https://github-readme-stats.vercel.app/api?username=JangAyeon)](https://github.com/JangAyeon/github-readme-stats)
  
