@@ -27,5 +27,5 @@ Product Manager<br>
 
  
 
- 
-[![JangAyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangAyeon)](https://github.com/JangAyeon/github-readme-stats)
+![JangAyeon's github stats](https://github-readme-stats.vercel.app/api?username=JangAyeon&show_icons=true&theme=tokyonight)
+
