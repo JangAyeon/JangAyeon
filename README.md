@@ -5,6 +5,12 @@
 `2019 ~ ` : Computational Science and Engineering, Ewha Womans University<br>
 `2019 ~ ` : Biomechanical Engineering, Ewha Womans University</h5>
 
+<h3>🖥 Activity</h3>
+
+`2021.01.23 ~ 2021.07.18` : 빅데이터 분석 대표 동아리 Tobig’s<br>
+`2021.07.01 ~ ` : Google Student Developer Club Ewha<br>
+`2021.12 ~ 2022.02` : Deonet Company SW Devlopment team FE Intern<br>
+
 <h3>⭐ Interests</h3>
 Front-end Developer<br>
 Machine Learning / Deep Learning<br>
