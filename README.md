@@ -9,7 +9,7 @@
 
 `2021.01.23 ~ 2021.07.18` : 빅데이터 분석 대표 동아리 Tobig’s<br>
 `2021.07.01 ~ ` : Google Student Developer Club Ewha<br>
-`2022.03 ~ ` : 이화여대 웹개발 커리어클럽 Efub Front-End Lead<br>
+`2022.03 ~ ` : 이화여대 웹개발 커리어클럽 Efub 2기 Front-End Lead<br>
 `19.01 ~ 19.12` : 천연화장품 개발 및 창업 동아리 이공공<br>
 `20.01  ~ 20.12 ` : 여학생 산업기술현장 체험프로그램 K-Girls' Day 2020 서포터즈 5기<br>
 
