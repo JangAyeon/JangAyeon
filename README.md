@@ -7,7 +7,7 @@
 
 <h3>🖥 Activity</h3>
 
-`22.03 ~ ` : 이화여대 웹개발 커리어클럽 Efub 2기 Front-End Lead<br>
+`22.03 ` : 이화여대 웹개발 커리어클럽 Efub 2기 Front-End Lead<br>
 `21.07.01 ~ ` : Google Student Developer Club Ewha<br>
 `21.01.23 ~ 2021.07.18` : 빅데이터 분석 대표 동아리 Tobig’s<br>
 `19.01 ~ 19.12` : 천연화장품 개발 및 창업 동아리 이공공<br>
