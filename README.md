@@ -15,8 +15,8 @@
 
 <h3>⭐ Interests</h3>
 Front-end Developer<br>
-Machine Learning / Deep Learning<br>
-Product Manager<br>
+Cloud Computing - AWS, Serverless<br>
+UI/UX<br>
 
 
 
