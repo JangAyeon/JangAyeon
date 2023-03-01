@@ -26,7 +26,7 @@ UI/UX<br>
  ![typeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)<br>
  ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
- ![React-query](https://img.shields.io/badge/react%20query-61DAFB?style=for-the-badge&logo=react%20query&logoColor=white)<br>
+ ![React-query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)<br>
  ![Styled-Component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
  ![Mui](https://img.shields.io/badge/mui-61DAFB?style=for-the-badge&logo=mui&logoColor=white)
  ![Scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
