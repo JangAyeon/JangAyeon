@@ -23,24 +23,30 @@ UI/UX<br>
  <h3> ⚙️ Available:  </h3>
  
  ![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
- ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
  ![typeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)<br>
+ ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+ ![React-query](https://img.shields.io/badge/react%20query-61DAFB?style=for-the-badge&logo=react%20query&logoColor=white)<br>
  ![Styled-Component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+ ![Mui](https://img.shields.io/badge/mui-61DAFB?style=for-the-badge&logo=mui&logoColor=white)
  ![Scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
  ![Tailwind Css](https://img.shields.io/badge/Tailwind--CSS-06B6D4?style=for-the-badge&logo=Tailwind-css&logoColor=white)<br>
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Html5&logoColor=white) 
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
  ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
  ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)<br>
+ ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+ ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)<br>
  ![FireBase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
  ![MySql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>
  ![python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) 
  ![tensorflow](https://img.shields.io/badge/tensorflow-FCC624?style=for-the-badge&logo=Tensorflow&logoColor=black)
- ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+ ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br>
+ ![jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
 
- 
+
 ![JangAyeon's github stats](https://github-readme-stats.vercel.app/api?username=JangAyeon&show_icons=true&theme=tokyonight)
 
