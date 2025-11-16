@@ -1,8 +1,8 @@
 <H2>Hi👋</h2>
 <h3>🎓 Education</h3>
 
-`2019 ~ ` : Computational Science and Engineering, Ewha Womans University<br>
-`2019 ~ ` : Biomechanical Engineering, Ewha Womans University</h5>
+`2019 ~ 2025` : Computational Science and Engineering, Ewha Womans University<br>
+`2019 ~ 2025` : Biomechanical Engineering, Ewha Womans University</h5>
 
 <h3>🖥 Activity</h3>
 
