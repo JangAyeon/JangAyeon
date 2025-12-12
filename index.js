@@ -6,48 +6,72 @@ import Parser from "rss-parser";
  * @type {string}
  */
 let text = `
-<h2>Hi👋</h2>
-<h3>🎓 Education</h3>
+<h2>JangAyeon </h2>
+<h3>⭐ About Me</h3>
 
-\`2019 ~ 2025\` : Computational Science and Engineering, Ewha Womans University<br>
-\`2019 ~ 2025\` : Biomechanical Engineering, Ewha Womans University</h5>
+\`\`\`javascript
+class JangAyeon {
+  constructor() {
+    this.name = "장아연";
+    this.contract = "hixkix59@gmail.com";
+    this.major = [
+      "Computational Science & Engineering",
+      "Biomechanical Engineering"
+    ];
+    this.goals = [
+      "Full-Stack Development",
+      "Sustained Open-Source Contributions",
+      "Scalable, Optimized, and Maintainable Architecture"
+    ];
+    this.interest = ["Web", "Cloud technology", "Developer Relations"];
+    this.certifications = ["정보처리기사", "SQLD", "ADsP"];
+    this.vibe = "문제 생기면 정의부터 하는 타입 😎";
+  }
+}
+\`\`\`
 
-<h3>🖥 Activity</h3>
+<h3>👩‍💻 Work Experience</h3>
+\`25.09 ~ \` : 메디아크<br>
+\`23.12  ~ 24.02\` : 모바일앱개발협동조합 간판스토어 웹 플랫폼<br>
+\`23.01  ~ 23.02\` : 리브라이블리<br>
 
-\`23.12  ~ 24.02\`  : 모바일앱개발협동조합 간판스토어 웹 플랫폼<br>
-\`23.01  ~ 23.02\`  : 리브라이블리 헬스케어 스타트업<br>
+<h3>🖥 Dev Activity</h3>
+\`25.09 ~ 25.11\` : 2025 오픈소스 컨트리뷰션 아카데미 [체험형-2차] MDN 문서 한글화<br>
+\`25.02 ~ 25.05\` : 서울시여성가족재단 주관 우먼잇츠 Seoul Women IT's 스터디 3기<br>
 \`22.03 ~ 22.08\` : 이화여대 웹개발 커리어클럽 Efub 2기 Front-End Lead<br>
 \`21.07 ~ 22.07\` : Google Student Developer Club Ewha 3기<br>
 \`21.01 ~ 21.07\` : 빅데이터 분석 대표 동아리 Tobig’s<br>
-\`20.01 ~ 20.12\`  : 여학생 산업기술현장 체험프로그램 K-Girls' Day 2020 서포터즈 5기<br>
+\`20.01 ~ 20.12\` : 여학생 산업기술현장 체험프로그램 K-Girls' Day 2020 서포터즈 5기<br>
 
-<h3>⭐ Interests</h3>
-Javascript 기반 웹 풀스택 개발<br>
-Cloud Computing - AWS, Docker, GCP<br>
+<h3> ⚙️ Available:  </h3>
 
- <h3> ⚙️ Available:  </h3>
- 
- ![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
- ![typeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
- ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)<br>
- ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
- ![React-query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)<br>
- ![Styled-Component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
- ![Scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
- ![Tailwind Css](https://img.shields.io/badge/Tailwind--CSS-06B6D4?style=for-the-badge&logo=Tailwind-css&logoColor=white)<br>
- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Html5&logoColor=white) 
- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
- ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
- ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
- ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)<br>
- ![FireBase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
- ![jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![typeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)<br>
 
-## 📕 최근 작성된 글
+![Tailwind Css](https://img.shields.io/badge/Tailwind--CSS-06B6D4?style=for-the-badge&logo=Tailwind-css&logoColor=white)
+![Tanstack-query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+![zustand](https://img.shields.io/badge/-Zustand-FFB441?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0i...SVG_BASE64...&logoColor=black)
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft-playwright&logoColor=white)<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)<br>
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
+
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![FireBase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+## 📕 Recent Posts
 `;
 
 // rss-parser 생성
