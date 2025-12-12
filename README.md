@@ -1,4 +1,5 @@
-<H2>Hi👋</h2>
+
+<h2>Hi👋</h2>
 <h3>🎓 Education</h3>
 
 `2019 ~ 2025` : Computational Science and Engineering, Ewha Womans University<br>
@@ -13,35 +14,13 @@
 `21.01 ~ 21.07` : 빅데이터 분석 대표 동아리 Tobig’s<br>
 `20.01 ~ 20.12`  : 여학생 산업기술현장 체험프로그램 K-Girls' Day 2020 서포터즈 5기<br>
 
-
 <h3>⭐ Interests</h3>
 Javascript 기반 웹 풀스택 개발<br>
 Cloud Computing - AWS, Docker, GCP<br>
 
+<h3> ⚙️ Available:  </h3>
 
+... 생략 ...
 
- <h3> ⚙️ Available:  </h3>
- 
- ![ReactJS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
- ![typeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
- ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)<br>
- ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
- ![React-query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)<br>
- ![Styled-Component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
- ![Scss](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
- ![Tailwind Css](https://img.shields.io/badge/Tailwind--CSS-06B6D4?style=for-the-badge&logo=Tailwind-css&logoColor=white)<br>
- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=Html5&logoColor=white) 
- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
- ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
- ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
- ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)<br>
- ![FireBase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
- ![jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
-
-
-![JangAyeon's github stats](https://github-readme-stats.vercel.app/api?username=JangAyeon&show_icons=true&theme=tokyonight)
-
+## 📕 최근 작성된 글
+<ul><li><a href='https://hixsch-kixsch59.tistory.com/136' target='_blank'>AWS Community Day 2025 - Amazon Q CLI 워크숍 참여 후기</a></li><li><a href='https://hixsch-kixsch59.tistory.com/134' target='_blank'>Docker 빌드에서 @parcel/watcher 에러와 npm dedup의 기적</a></li><li><a href='https://hixsch-kixsch59.tistory.com/133' target='_blank'>Turborepo 빌드 의존성 시각화 그래프 자동 생성 파이프라인</a></li><li><a href='https://hixsch-kixsch59.tistory.com/132' target='_blank'>Playwright page.evaluate() 스코프 문제: 브라우저와 Node.js 컨텍스트 간의 변수 전달 실패</a></li><li><a href='https://hixsch-kixsch59.tistory.com/131' target='_blank'>보드 하위 태스크 실시간 달성률</a></li><li><a href='https://hixsch-kixsch59.tistory.com/130' target='_blank'>Board 순서 실시간 변경</a></li><li><a href='https://hixsch-kixsch59.tistory.com/129' target='_blank'>Next.js 실행환경 기반 규모에 맞는 현실적인 로깅 시스템 구축기</a></li><li><a href='https://hixsch-kixsch59.tistory.com/128' target='_blank'>다국어 서비스에서 실용적인 사용자 중심 에러 처리</a></li><li><a href='https://hixsch-kixsch59.tistory.com/127' target='_blank'>지출 블록 시각화에서 데이터 정합성 문제 해결기</a></li><li><a href='https://hixsch-kixsch59.tistory.com/126' target='_blank'>배포 최적화 및 에러 대응</a></li></ul>
