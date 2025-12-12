@@ -1,0 +1,25 @@
+{
+  "name": "jangayeon",
+  "version": "1.0.0",
+  "description": "<H2>Hi👋</h2> <h3>🎓 Education</h3>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JangAyeon/JangAyeon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/JangAyeon/JangAyeon/issues"
+  },
+  "homepage": "https://github.com/JangAyeon/JangAyeon#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
