@@ -48,6 +48,7 @@ class JangAyeon {
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ![zustand](https://img.shields.io/badge/-Zustand-FFB441?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0i...SVG_BASE64...&logoColor=black)
+
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft-playwright&logoColor=white)<br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
