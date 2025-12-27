@@ -48,6 +48,7 @@ class JangAyeon {
 ![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ![zustand](https://img.shields.io/badge/-Zustand-FFB441?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0i...SVG_BASE64...&logoColor=black)
+
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft-playwright&logoColor=white)<br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -61,6 +62,7 @@ class JangAyeon {
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![FireBase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## 📕 Recent Posts
 <ul><li><a href='https://hixsch-kixsch59.tistory.com/136' target='_blank'>AWS Community Day 2025 - Amazon Q CLI 워크숍 참여 후기</a></li><li><a href='https://hixsch-kixsch59.tistory.com/134' target='_blank'>Docker 빌드에서 @parcel/watcher 에러와 npm dedup의 기적</a></li><li><a href='https://hixsch-kixsch59.tistory.com/133' target='_blank'>Turborepo 빌드 의존성 시각화 그래프 자동 생성 파이프라인</a></li><li><a href='https://hixsch-kixsch59.tistory.com/132' target='_blank'>Playwright page.evaluate() 스코프 문제: 브라우저와 Node.js 컨텍스트 간의 변수 전달 실패</a></li><li><a href='https://hixsch-kixsch59.tistory.com/131' target='_blank'>보드 하위 태스크 실시간 달성률</a></li><li><a href='https://hixsch-kixsch59.tistory.com/130' target='_blank'>Board 순서 실시간 변경</a></li><li><a href='https://hixsch-kixsch59.tistory.com/129' target='_blank'>Next.js 실행환경 기반 규모에 맞는 현실적인 로깅 시스템 구축기</a></li><li><a href='https://hixsch-kixsch59.tistory.com/128' target='_blank'>다국어 서비스에서 실용적인 사용자 중심 에러 처리</a></li><li><a href='https://hixsch-kixsch59.tistory.com/127' target='_blank'>지출 블록 시각화에서 데이터 정합성 문제 해결기</a></li><li><a href='https://hixsch-kixsch59.tistory.com/126' target='_blank'>배포 최적화 및 에러 대응</a></li></ul>
